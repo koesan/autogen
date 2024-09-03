@@ -21,7 +21,7 @@ Bu proje, `autogen` kütüphanesini kullanarak yazılım geliştirme sürecini s
     pip install litellm
     ```
 
-2. `CodeLlama` modelini kurun:
+2. `Codellama` modelini kurun:
     ```bash
     curl -fsSL https://ollama.com/install.sh | sh
     ollama run codellama
